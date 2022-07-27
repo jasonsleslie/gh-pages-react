@@ -2,7 +2,7 @@
   "name": "gh-pages-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://jasonsleslie.github.io/gh-pages-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
